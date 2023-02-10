@@ -10,7 +10,6 @@ e crescimento profissional.</p><br/>
 
 ![Leonardo Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramos86&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramos86&langs_count=8)](https://github.com/ramos86/github-readme-stats)
 ## Tenologias usadas no meu dia a dia. 👨‍💻
 
 <div style="Display: inline_block"><br/>

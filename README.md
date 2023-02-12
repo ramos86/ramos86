@@ -10,7 +10,7 @@ e crescimento profissional.</p><br/>
 
 ![Leonardo Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramos86&show_icons=true&theme=radical)
 
-## Tenologias usadas no meu dia a dia. 👨‍💻
+## Tecnologias usadas no meu dia a dia. 👨‍💻
 
 <div style="Display: inline_block"><br/>
     <img alingn="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
